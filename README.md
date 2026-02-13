@@ -85,6 +85,7 @@ Try our demo at [https://demo.ragflow.io](https://demo.ragflow.io).
 
 ## 🔥 Latest Updates
 
+- 2026-02-13 Adds [Bulgarian language support](https://github.com/infiniflow/ragflow/pull/13146) as the 13th UI language.
 - 2025-12-26 Supports 'Memory' for AI agent.
 - 2025-11-19 Supports Gemini 3 Pro.
 - 2025-11-12 Supports data synchronization from Confluence, S3, Notion, Discord, Google Drive.
